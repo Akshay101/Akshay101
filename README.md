@@ -12,5 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](https://twitter.com/theAkshay4u) [Linkedin](https://www.linkedin.com/in/akshay-lakade/)
 - ⚡ Fun fact: I am not lazy just overflowing with potential energy!!
 
-  
+### Connect with me
+
+  <a href="https://twitter.com/theAkshay4u">
+  <img align="left" alt="Akshay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
