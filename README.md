@@ -1,9 +1,12 @@
-### Hi there 👋 I am Akshay 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<h2 align="center">👋Hola!, I'm Akshay</h2>
 
 
-**Akshay101/Akshay101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center"> MERN Stack | Open Source ♥ | Competitive Programmer | DS and Algos ♥ | Tech Blogger</h4>
 
-Here are some ideas to get you started:
+
+<br/>
 
 - 🔭 I’m an Embedded Engineer
 - 🌱 I’m currently learning RTOS
