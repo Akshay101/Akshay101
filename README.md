@@ -17,4 +17,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/theAkshay4u">
   <img align="left" alt="Akshay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a href="https://www.linkedin.com/in/akshay-lakade/">
+  <img align="left" alt="Akshay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
