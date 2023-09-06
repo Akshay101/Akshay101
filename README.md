@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am not lazy just overflowing with potential energy!!
 
   
+![linkedin](https://github.com/Akshay101/Akshay101/assets/14025981/8580fc49-4f34-48d7-ba91-01acbb68f043)
