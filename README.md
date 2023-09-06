@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m an Embedded Engineer
-- 🌱 I’m currently learning Autosar
+- 🌱 I’m currently learning RTOS
 - 🤔 I’m looking for something ...
 - 💬 Ask me about Embedded related stuff 
 - 📫 How to reach me: [Twitter](https://twitter.com/theAkshay4u) [Linkedin](https://www.linkedin.com/in/akshay-lakade/)
