@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/PRVDslxfTmwXkLinrk/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/PRVDslxfTmwXkLinrk/giphy.gif" width="300">
 
 <h2 align="center">👋Hola!, I'm Akshay</h2>
 
