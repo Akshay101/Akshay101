@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning RTOS
 - 🤔 I’m looking for something ...
 - 💬 Ask me about Embedded related stuff 
-- 📫 How to reach me: [Twitter](https://twitter.com/theAkshay4u) [Linkedin](https://www.linkedin.com/in/akshay-lakade/)
+- 📫 How to reach me: [Twitter](https://twitter.com/theAkshay4u)
 - ⚡ Fun fact: I am not lazy just overflowing with potential energy!!
 
 ### Connect with me
