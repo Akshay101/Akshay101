@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Autosar
 - 🤔 I’m looking for something ...
 - 💬 Ask me about Embedded related stuff 
-- 📫 How to reach me: [Twitter][https://twitter.com/theAkshay4u] [Linkedin][https://www.linkedin.com/in/akshay-lakade/]
+- 📫 How to reach me: [Twitter](https://twitter.com/theAkshay4u) [Linkedin](https://www.linkedin.com/in/akshay-lakade/)
 - ⚡ Fun fact: I am not lazy just overflowing with potential energy!!
 
   
-![linkedin](https://github.com/Akshay101/Akshay101/assets/14025981/8580fc49-4f34-48d7-ba91-01acbb68f043)
+
