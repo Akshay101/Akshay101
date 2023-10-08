@@ -9,8 +9,8 @@
 <br/>
 
 - 🔭 I’m an Embedded Engineer
-- 🌱 I’m currently learning RTOS
-- 🤔 I’m looking for something ...
+- 🌱 I’m currently learning ROS 
+- 🤔 Helping Robots to take over Earth
 - 💬 Ask me about Embedded related stuff 
 - 📫 How to reach me: [Twitter](https://twitter.com/theAkshay4u)
 - ⚡ Fun fact: I am not lazy just overflowing with potential energy!!
