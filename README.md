@@ -3,7 +3,7 @@
 <h2 align="center">👋Hola!, I'm Akshay</h2>
 
 
-<h4 align="center"> Embedded System | Robotics | PCB Desigining | Teacher</h4>
+<h4 align="center"> Embedded Hardware | Robotics | PCB Desigining | BOM | DFM </h4>
 
 
 <br/>
